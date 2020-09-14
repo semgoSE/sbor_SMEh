@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sbor_SMEh/static/css/main.572c94ce.chunk.css",
+    "main.js": "/sbor_SMEh/static/js/main.38838781.chunk.js",
+    "main.js.map": "/sbor_SMEh/static/js/main.38838781.chunk.js.map",
+    "runtime-main.js": "/sbor_SMEh/static/js/runtime-main.d87f7b41.js",
+    "runtime-main.js.map": "/sbor_SMEh/static/js/runtime-main.d87f7b41.js.map",
+    "static/css/2.09e62520.chunk.css": "/sbor_SMEh/static/css/2.09e62520.chunk.css",
+    "static/js/2.de2265ee.chunk.js": "/sbor_SMEh/static/js/2.de2265ee.chunk.js",
+    "static/js/2.de2265ee.chunk.js.map": "/sbor_SMEh/static/js/2.de2265ee.chunk.js.map",
+    "index.html": "/sbor_SMEh/index.html",
+    "precache-manifest.bd776833b3ad5905e870b63d8274011e.js": "/sbor_SMEh/precache-manifest.bd776833b3ad5905e870b63d8274011e.js",
+    "service-worker.js": "/sbor_SMEh/service-worker.js",
+    "static/css/2.09e62520.chunk.css.map": "/sbor_SMEh/static/css/2.09e62520.chunk.css.map",
+    "static/css/main.572c94ce.chunk.css.map": "/sbor_SMEh/static/css/main.572c94ce.chunk.css.map",
+    "static/js/2.de2265ee.chunk.js.LICENSE.txt": "/sbor_SMEh/static/js/2.de2265ee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d87f7b41.js",
+    "static/css/2.09e62520.chunk.css",
+    "static/js/2.de2265ee.chunk.js",
+    "static/css/main.572c94ce.chunk.css",
+    "static/js/main.38838781.chunk.js"
+  ]
+}
